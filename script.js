@@ -64,7 +64,7 @@
       var view = new MapView({
           container: "viewDiv",
           center: [-90.1994, 38.6270], // Longitude, Latitude for Saint Louis
-          zoom: 12, // Adjust zoom level as needed
+          zoom: 10, // Adjust zoom level as needed
           map: map
       });
 
